@@ -1,4 +1,4 @@
-# 干货什么的最好了~
+## 干货什么的最好了~
 > [下载地址](https://github.com/Ikarows/SublimeText-Atom/releases/tag/v1.0)
 
 # sublime text
