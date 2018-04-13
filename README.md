@@ -1,5 +1,5 @@
-## 资源链接 [下载](https://github.com/Ikarows/SublimeText-Atom/releases/tag/v1.0)
-
+## [下载地址](https://github.com/Ikarows/SublimeText-Atom/releases/tag/v1.0)
+<br/>
 # sublime text
 
 ```bash
