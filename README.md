@@ -1,4 +1,4 @@
-# atom-packages
+# atom
 
 ```bash
 包含下列常用插件：
