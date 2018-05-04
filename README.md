@@ -16,6 +16,8 @@
 |-- sublime_alignment-master               //  自动对齐
 |-- Sublime-HTMLPrettify-master            //  美化html/js/css
 |-- vue-syntax-highlight-master            //  Vue语法高亮显示
+|-- zzz A File Icon zzz                    //  Boxy Theme 主题加图标
+|-- sublime-jsdocs-master                  //  js注释
 
 
 ```
